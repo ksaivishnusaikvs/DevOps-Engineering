@@ -1,0 +1,35 @@
+# Terraform Production Resource Protection
+
+Accidental deletion in production can cause a serious outage.
+
+I faced this with a critical EC2 instance used for production backup operations. During maintenance, an accidental `terraform destroy` could have removed the resource.
+
+## Problem
+
+A critical production resource could be deleted accidentally.
+
+## Debug
+
+I checked the Terraform error and configuration.
+
+## Fix
+
+```hcl
+lifecycle {
+  prevent_destroy = true
+}
+```
+
+Terraform then blocked the deletion.
+
+## Key Takeaway
+
+For critical production resources, add protection before an accidental deletion becomes an incident.
+
+**Problem → Debug → Fix → Verify**
+
+Has anyone else faced this problem?
+
+How did you fix it?
+
+#Terraform #AWS #DevOps #CloudEngineering #InfrastructureAsCode #SRE #PlatformEngineering #DevSecOps
