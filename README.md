@@ -1,38 +1,84 @@
-# DevOps Engineering
+# ⚡ DevOps Engineering
 
-A practical collection of my **DevOps, Cloud, Infrastructure, Security, Monitoring, FinOps, and AI Automation** work.
+### Cloud • DevOps • Automation • Security • FinOps • AI
 
-🔗 **Connect**
-LinkedIn: https://www.linkedin.com/in/vishnu-sai-14107a256/
+Building practical solutions around **cloud infrastructure, automation, observability, DevSecOps, cloud cost optimization, and AI-driven operations.**
 
----
-
-## ☁️ Cloud & Infrastructure
-
-AWS • Azure • GCP • Terraform • Kubernetes • Docker
-
-## ⚙️ DevOps & Automation
-
-CI/CD • Linux • Automation • Scripting • Infrastructure as Code
-
-## 🔐 Security & Operations
-
-DevSecOps • Monitoring • Logging • Observability • Security
-
-## 💰 FinOps & AI
-
-FinOps • AI/MLOps • XOps • AI Automation
-
-> **Learn → Build → Automate → Document → Share**
+🔗 **Connect with me on LinkedIn:**
+https://www.linkedin.com/in/vishnu-sai-14107a256/
 
 ---
 
-# 📁 Repository Structure
+## 🚀 What I Work With
+
+<table>
+<tr>
+<td width="50%">
+
+### ☁️ Cloud & Infrastructure
+
+AWS • Azure • GCP
+Terraform • Kubernetes • Docker
+Infrastructure as Code
+
+</td>
+<td width="50%">
+
+### ⚙️ DevOps & Automation
+
+CI/CD • Linux • Scripting
+Automation • Deployment
+Infrastructure Automation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔐 Security & Operations
+
+DevSecOps • Security
+Monitoring • Logging
+Observability • Auditing
+
+</td>
+<td width="50%">
+
+### 💰 FinOps & AI
+
+FinOps • AI/MLOps
+XOps • AI Automation
+Cloud Cost Optimization
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Technology Stack
+
+```text
+Cloud          AWS • Azure • GCP
+Containers     Docker • Kubernetes
+IaC            Terraform
+CI/CD          Jenkins • GitHub Actions • GitLab CI/CD
+OS             Linux
+Monitoring     Prometheus • Grafana • Loki • CloudWatch
+Security       DevSecOps • Trivy • Gitleaks • SonarQube
+FinOps         Cloud Cost Optimization • Governance
+AI             AI Automation • AI/MLOps • RAG • MCP
+```
+
+---
+
+## 📂 Repository
 
 ```text
 devops-engineering/
 │
-├── linkedin/
+├── 🔗 linkedin/
 │   └── posts/
 │       ├── 2026-08-aws-finops/
 │       │   ├── post.md
@@ -44,78 +90,113 @@ devops-engineering/
 │           ├── document.pdf
 │           └── image.png
 │
-├── blogs/
+├── 📝 blogs/
 │   ├── README.md
 │   ├── linux/
-│   │   └── linux-automation-monitoring.md
 │   ├── aws/
-│   │   └── aws-finops.md
 │   ├── docker/
-│   │   └── docker-production.md
 │   ├── kubernetes/
-│   │   └── kubernetes-monitoring.md
 │   └── devsecops/
-│       └── devsecops-pipeline.md
 │
-├── aws/
-├── docker/
-├── kubernetes/
-├── terraform/
-├── devsecops/
-├── monitoring/
-├── cicd/
-└── projects/
+├── ☁️ aws/
+├── 🐳 docker/
+├── ☸️ kubernetes/
+├── 🏗️ terraform/
+├── 🔐 devsecops/
+├── 📊 monitoring/
+├── 🔄 cicd/
+└── 🚀 projects/
 ```
 
 ---
 
-# 📝 Blogs & Technical Documentation
+# 📝 Featured Technical Blog
 
-## Linux Monitoring, Cleanup, Logging & Auditing
+### 🐧 Linux Monitoring, Cleanup, Logging & Auditing
 
-**Platform:** Hashnode
-**Topic:** Linux • Monitoring • Cleanup • Logging • Auditing
-**Published:** August 21, 2026
+**Hashnode • August 21, 2026**
 
-🔗 **Blog:**
-https://vishnusai.hashnode.dev/linux-automation-monitoring-cleanup-logging-auditing
+A practical guide covering Linux server monitoring, resource analysis, Docker cleanup, logging, auditing, and safe automation.
 
-**Hashnode:**
-https://hashnode.com/@vishnusaiK
+### 🔍 Topics
 
-### Topics Covered
+`Linux` `Monitoring` `Docker` `Logging` `Auditing` `AWS EC2` `Automation`
 
-* Linux resource monitoring
-* CPU, memory, and disk monitoring
+### What I Covered
+
+* CPU, memory & disk monitoring
 * Process detection and analysis
 * Docker resource cleanup
 * Logging and auditing
 * AWS EC2 identity verification
-* Dry-run mode
-* Interactive cleanup mode
-* Automation and operational safety
+* Dry-run execution
+* Interactive cleanup
+* Safe operational automation
+
+🔗 **Read the full blog:**
+https://vishnusai.hashnode.dev/linux-automation-monitoring-cleanup-logging-auditing
+
+🔗 **Hashnode:**
+https://hashnode.com/@vishnusaiK
 
 ---
 
-# 🛠️ Areas of Practice
+# 🚀 Areas of Engineering
 
-| Area               | Focus                                  |
-| ------------------ | -------------------------------------- |
-| ☁️ Cloud           | AWS • Azure • GCP                      |
-| 🏗️ Infrastructure | Terraform • Kubernetes • Docker        |
-| 🔄 CI/CD           | Pipeline Automation • Deployment       |
-| 🔐 DevSecOps       | Security • Scanning • Compliance       |
-| 📊 Monitoring      | Metrics • Logs • Observability         |
-| 💰 FinOps          | Cost Optimization • Cloud Economics    |
-| 🤖 AI              | AI Automation • AI/MLOps • XOps        |
-| 🐧 Linux           | Administration • Automation • Auditing |
+```text
+☁️  Cloud Engineering
+    AWS • Azure • GCP
+
+🏗️  Infrastructure
+    Terraform • Kubernetes • Docker
+
+🔄  DevOps
+    CI/CD • Automation • Deployment
+
+🔐  DevSecOps
+    Security • Scanning • Compliance
+
+📊  Observability
+    Monitoring • Logging • Metrics • Tracing
+
+💰  FinOps
+    Cost Optimization • Governance
+
+🤖  AI Engineering
+    AI Automation • AI/MLOps • RAG • MCP
+
+🐧  Linux
+    Administration • Automation • Auditing
+```
 
 ---
 
-# 🎯 Purpose
+# 📚 Learn • Build • Automate
 
-This repository documents my practical learning, engineering experiments, automation projects, technical blogs, and real-world DevOps practices.
+I use this repository to document:
 
-The goal is to continuously:
+**→ Technical experiments**
+**→ DevOps projects**
+**→ Cloud infrastructure**
+**→ Automation scripts**
+**→ Monitoring solutions**
+**→ Security practices**
+**→ FinOps implementations**
+**→ AI automation**
+**→ Technical blogs & documentation**
 
-**Learn → Build → Automate → Document → Share**
+---
+
+## 🌐 Connect
+
+**LinkedIn**
+https://www.linkedin.com/in/vishnu-sai-14107a256/
+
+**Hashnode**
+https://hashnode.com/@vishnusaiK
+
+---
+
+### ⚡ Learn → Build → Automate → Document → Share
+
+> Building practical DevOps and Cloud engineering solutions, one project at a time.
