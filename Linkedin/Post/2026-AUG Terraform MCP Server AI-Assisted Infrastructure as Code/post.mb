@@ -1,0 +1,21 @@
+# Terraform MCP Server + AI
+
+Recently, I’ve been exploring Terraform MCP Server, and I found it really interesting from a DevOps perspective.
+
+The idea is simple — AI can use Terraform-specific context to help create and understand Terraform code.
+
+The flow I’m looking at:
+
+**AI → Terraform MCP → Terraform Code → Validate → Plan → Human Approval → Apply**
+
+What I like about this is that it can reduce the time spent searching documentation and writing repetitive Terraform code.
+
+But one thing is important:
+
+**MCP doesn’t replace Terraform CLI.**
+
+It helps AI, while Terraform CLI still handles the actual infrastructure changes.
+
+I think this can be a useful approach for making IaC development faster while keeping human approval in the loop.
+
+#Terraform #DevOps #IaC #MCP #AI #AWS #Cloud #Automation #InfrastructureAsCode #DevSecOps
