@@ -2,49 +2,46 @@ DevOps Engineering
 
 A collection of my DevOps, Cloud, Infrastructure, Automation, Monitoring, CI/CD, and DevSecOps work.
 
-📁 Repository Structure
+## Repository Structure
+
+```text
 devops-engineering/
 │
-├── 📄 README.md
-│
-├── 📂 linkedin/
-│   └── 📂 posts/
-│       ├── 📂 2026-08-aws-finops/
-│       │   ├── 📄 post.md
-│       │   ├── 📄 document.pdf
-│       │   └── 🖼️ image.png
+├── linkedin/
+│   └── posts/
+│       ├── 2026-08-aws-finops/
+│       │   ├── post.md
+│       │   ├── document.pdf
+│       │   └── image.png
 │       │
-│       └── 📂 2026-08-linux-automation/
-│           ├── 📄 post.md
-│           ├── 📄 document.pdf
-│           └── 🖼️ image.png
+│       └── 2026-08-linux-automation/
+│           ├── post.md
+│           ├── document.pdf
+│           └── image.png
 │
-├── 📂 blogs/
-│   ├── 📄 README.md
-│   │
-│   ├── 📂 linux/
-│   │   └── 📄 linux-automation-monitoring.md
-│   │
-│   ├── 📂 aws/
-│   │   └── 📄 aws-finops.md
-│   │
-│   ├── 📂 docker/
-│   │   └── 📄 docker-production.md
-│   │
-│   ├── 📂 kubernetes/
-│   │   └── 📄 kubernetes-monitoring.md
-│   │
-│   └── 📂 devsecops/
-│       └── 📄 devsecops-pipeline.md
+├── blogs/
+│   ├── README.md
+│   ├── linux/
+│   │   └── linux-automation-monitoring.md
+│   ├── aws/
+│   │   └── aws-finops.md
+│   ├── docker/
+│   │   └── docker-production.md
+│   ├── kubernetes/
+│   │   └── kubernetes-monitoring.md
+│   └── devsecops/
+│       └── devsecops-pipeline.md
 │
-├── 📂 aws/
-├── 📂 docker/
-├── 📂 kubernetes/
-├── 📂 terraform/
-├── 📂 devsecops/
-├── 📂 monitoring/
-├── 📂 cicd/
-└── 📂 projects/
+├── aws/
+├── docker/
+├── kubernetes/
+├── terraform/
+├── devsecops/
+├── monitoring/
+├── cicd/
+└── projects/
+```
+
 
 # Linux Monitoring, Cleanup, Logging & Auditing
 
