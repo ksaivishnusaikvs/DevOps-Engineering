@@ -5,4 +5,4 @@ One thing I learned:
 Security doesn't begin after deployment—it begins before every commit.
 Scan → Review → Commit → Push. 
 Small security checks today can prevent major problems tomorrow.
-hashtag#DevSecOps hashtag#Git hashtag#GitSecurity hashtag#SecretScanning hashtag#CyberSecurity hashtag#SecureCoding hashtag#CloudSecurity hashtag#DevOps
+#DevSecOps #Git #GitSecurity #SecretScanning #CyberSecurity #SecureCoding #CloudSecurity #DevOps
