@@ -1,0 +1,11 @@
+# Linux Disk Space Management
+
+One of the most common issues in production Linux servers is running out of disk space.
+
+I recently created a practical guide on managing disk space using interactive terminal tools and Cron-based automation.
+
+My biggest takeaway is that disk cleanup shouldn't start when the server is already full. Regular monitoring and automation can prevent many production issues before they happen.
+
+**Monitor → Analyze → Manage → Clean → Automate**
+
+[**#Linux**](https://www.linkedin.com/search/results/all/?keywords=%23linux&origin=HASH_TAG_FROM_FEED) [**#DevOps**](https://www.linkedin.com/search/results/all/?keywords=%23devops&origin=HASH_TAG_FROM_FEED) [**#SRE**](https://www.linkedin.com/search/results/all/?keywords=%23sre&origin=HASH_TAG_FROM_FEED) [**#SystemAdministration**](https://www.linkedin.com/search/results/all/?keywords=%23systemadministration&origin=HASH_TAG_FROM_FEED) [**#Automation**](https://www.linkedin.com/search/results/all/?keywords=%23automation&origin=HASH_TAG_FROM_FEED) [**#Docker**](https://www.linkedin.com/search/results/all/?keywords=%23docker&origin=HASH_TAG_FROM_FEED) [**#OpenSource**](https://www.linkedin.com/search/results/all/?keywords=%23opensource&origin=HASH_TAG_FROM_FEED) [**#CloudComputing**](https://www.linkedin.com/search/results/all/?keywords=%23cloudcomputing&origin=HASH_TAG_FROM_FEED)
