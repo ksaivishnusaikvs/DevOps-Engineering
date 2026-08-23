@@ -1,0 +1,26 @@
+Linux Automation Monitoring, Cleanup, Logging & Auditing
+The Problem
+Managing Linux servers was becoming time-consuming.
+I had to check CPU, memory, disk usage, processes, Docker resources, and EBS volumes separately.
+Doing these checks manually takes time and makes regular cleanup harder to manage.
+My Debugging Steps
+• Checked CPU, memory, and disk usage
+• Checked running processes
+• Checked Docker resources
+• Checked EBS volumes
+• Looked for a simple way to automate these checks
+The Solution
+I built a Python automation script to bring these routine tasks into one place.
+It supports Auto, Interactive, and Dry-Run modes so cleanup actions can be controlled safely.
+I also added logging and audit records to track important actions.
+
+Monitor → Detect → Decide → Cleanup → Log → Audit
+The goal was simple: make Linux monitoring and cleanup easier, safer, and easier to track.
+Blog:  Linux Monitoring, Cleanup, Logging & Auditing  
+https://lnkd.in/dPjydRvv  
+Hashnode Profile: https://lnkd.in/dSpS_dTE 
+GitHub:
+https://lnkd.in/dYeNz3yv 
+Have you faced a similar problem?
+How do you handle Linux monitoring and cleanup in your workflow?
+#DevOps #Linux #CloudComputing #Automation #Python #AWS #Docker #SRE #PlatformEngineering #InfrastructureAutomation
