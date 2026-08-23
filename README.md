@@ -1,6 +1,3 @@
-# 👋 DevOps & Cloud Engineer
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/vishnu-sai-14107a256/
 ### ☁️ Cloud & Infrastructure
 AWS • Azure • GCP • Terraform • Kubernetes • Docker
 ### ⚙️ DevOps & Automation
