@@ -7,6 +7,7 @@ DevSecOps • Monitoring • Logging • Observability • Security
 💰 FinOps & AI #
 FinOps • AI/MLOps • XOps • AI Automation
 Learn → Build → Automate → Document → Share
+**Blog ID:** https://hashnode.com/@vishnusaiK
 ## Repository Structure
 ```text
 devops-engineering/
