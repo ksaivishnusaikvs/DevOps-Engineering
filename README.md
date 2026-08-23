@@ -1,9 +1,12 @@
 ☁️ Cloud & Infrastructure #
 AWS • Azure • GCP • Terraform • Kubernetes • Docker
+
 ⚙️ DevOps & Automation #
 CI/CD • Linux • Automation • Scripting • Infrastructure as Code
+
 🔐 Security & Operations #
 DevSecOps • Monitoring • Logging • Observability • Security
+
 💰 FinOps & AI #
 FinOps • AI/MLOps • XOps • AI Automation
 Learn → Build → Automate → Document → Share
