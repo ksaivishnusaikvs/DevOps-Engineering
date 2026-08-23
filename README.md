@@ -1,15 +1,16 @@
-🔗 Connect
-LinkedIn : https://www.linkedin.com/in/vishnu-sai-14107a256/
+# 👋 DevOps & Cloud Engineer
 
-☁️ Cloud & Infrastructure
+🔗 **Connect on LinkedIn:** https://www.linkedin.com/in/vishnu-sai-14107a256/
+### ☁️ Cloud & Infrastructure
 AWS • Azure • GCP • Terraform • Kubernetes • Docker
-⚙️ DevOps & Automation
+### ⚙️ DevOps & Automation
 CI/CD • Linux • Automation • Scripting • Infrastructure as Code
-🔐 Security & Operations
+### 🔐 Security & Operations
 DevSecOps • Monitoring • Logging • Observability • Security
-💰 FinOps & AI
+
+### 💰 FinOps & AI
 FinOps • AI/MLOps • XOps • AI Automation
-Learn → Build → Automate → Document → Share
+**Learn → Build → Automate → Document → Share**
 
 ## Repository Structure
 
