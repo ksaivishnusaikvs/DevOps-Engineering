@@ -6,11 +6,11 @@
 
 **Published:** August 21, 2026
  
- 🔗 **Hashnode Profile:**  https://hashnode.com/@vishnusaiK
+ 🔗 **Hashnode Profile:**   https://hashnode.com/@vishnusaiK
  
-🔗 **Blog:**  https://vishnusai.hashnode.dev/linux-monitoring-cleanup-logging-auditing 
+🔗 **Blog:**   https://vishnusai.hashnode.dev/linux-monitoring-cleanup-logging-auditing 
 
-🔗 **GitHub:**  https://github.com/ksaivishnusaikvs/DevOps-Engineering/tree/main/Linkedin/Post
+🔗 **GitHub:**   https://github.com/ksaivishnusaikvs/DevOps-Engineering/tree/main/Linkedin/Pos
 
 ## Topics Covered
 
