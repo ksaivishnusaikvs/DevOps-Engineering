@@ -4,7 +4,7 @@
 
 **Topic:** AWS / EC2 / Monitoring / Automation
 
-**Published:** September 3, 2026
+**Published:** September 2, 2026
 
 🔗 **Hashnode Profile:** [https://hashnode.com/@vishnusaiK](https://hashnode.com/@vishnusaiK)
 
