@@ -8,7 +8,7 @@
 
 🔗 **Hashnode Profile:** [https://hashnode.com/@vishnusaiK](https://hashnode.com/@vishnusaiK)
 
-🔗 **Blog:**
+🔗 **Blog:** https://vishnusai.hashnode.dev/automated-ec2-health-monitoring-multi-channel-alerts
 
 🔗 **GitHub:**
 
