@@ -10,7 +10,7 @@
 
 🔗 **Blog:** https://vishnusai.hashnode.dev/automated-ec2-health-monitoring-multi-channel-alerts
 
-🔗 **GitHub:**
+🔗 **GitHub:** https://github.com/ksaivishnusaikvs/DevOps-Engineering/tree/main/Linkedin/Post
 
 ## PROBLEM
 
