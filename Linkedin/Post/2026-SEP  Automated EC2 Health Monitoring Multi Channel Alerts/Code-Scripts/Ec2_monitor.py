@@ -1,6 +1,6 @@
 Ec2_monitor.py
 
-==============
+======================
 Lambda function — runs on a schedule (EventBridge every 5 min).
 
 Checks for EACH EC2 instance (public + private):
