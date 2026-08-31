@@ -52,24 +52,4 @@ devops-engineering/
 ```
 
 
-# Linux Monitoring, Cleanup, Logging & Auditing
 
-**Platform:** Hashnode
-
-**Topic:** Linux / Monitoring / Cleanup / Logging / Auditing
-
-**Published:** August 21, 2026
-
-**Blog url:** https://vishnusai.hashnode.dev/linux-automation-monitoring-cleanup-logging-auditing
-
-**Blog ID:** https://hashnode.com/@vishnusaiK
-
-## Topics Covered
-
-- Linux resource monitoring
-- CPU, memory and disk monitoring
-- Process detection
-- Docker cleanup
-- Logging and auditing
-- AWS EC2 identity
-- Dry-run and interactive modes
