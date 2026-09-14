@@ -1,0 +1,22 @@
+Automated EC2 Health Monitoring & Slack Alerts 
+I was spending too much time checking EC2 servers manually.
+While managing multiple EC2 instances, I kept checking the same things again and again:
+
+Running / Stopped state, 1/2 Status Checks, CPU usage, Memory usage,
+At one point I thought:
+Why am I checking all of this manually every time?
+So I decided to automate it.
+I built a simple flow:
+
+EventBridge → Lambda → EC2 / CloudWatch / SSM → Slack
+Every 5 minutes, Lambda checks the EC2 instances.
+If something goes wrong, I get a Slack alert with the affected server details.
+Now I don't have to check every server manually. I can see the issue quickly and start troubleshooting.
+Less manual checking. Faster alerts. Quicker troubleshooting.
+Has anyone else faced the same problem?
+How did you handle it?
+Blog: https://lnkd.in/dGNzHNj5 
+HashnodProfile: https://lnkd.in/dSpS_dTE 
+GitHub: https://lnkd.in/dMu_hmXt
+
+hashtag#AWS hashtag#EC2 hashtag#Lambda hashtag#CloudWatch hashtag#EventBridge hashtag#DevOps hashtag#Monitoring hashtag#Automation hashtag#LearnInPublic
