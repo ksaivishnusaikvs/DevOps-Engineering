@@ -1,0 +1,45 @@
+Terraform + CDKTF: Deploying AWS Infrastructure Using a Familiar Programming Language
+I recently tried deploying an AWS S3 bucket using Python + CDKTF instead of writing Terraform HCL.
+
+The plan was simple:
+• Create an S3 bucket
+• Enable versioning
+• Add encryption
+• Block public access
+• Add proper tags
+Everything looked straightforward, but I ran into a problem during the setup.
+
+The Problem
+I first tried using my normal/system Python environment.
+It didn’t work as expected.
+
+How I Debugged It
+Rather than changing my system Python setup, I created a Python virtual environment (venv) and installed the required CDKTF packages there.
+
+System Python → Didn’t work
+Python venv → Worked
+Once that was set up, I tested the Python code and ran:
+cdktf synth
+Then: cdktf diff
+
+This helped me check what Terraform was going to create before actually deploying it.
+
+The Solution
+Finally, I ran:
+cdktf deploy
+And this time, it worked.
+The S3 bucket was created successfully with versioning, encryption, public access blocked, and the required tags.
+
+The biggest takeaway for me was pretty simple
+When working with Python-based infrastructure tools, using a separate virtual environment can save a lot of time and helps avoid messing with the system Python setup.
+
+Have you faced a similar problem?
+
+Have you tried using Python + CDKTF for AWS infrastructure?
+
+How did you fix it?
+I’ve also written a detailed blog about the setup and troubleshooting
+📝 Blog: https://lnkd.in/d3yJ8P8e
+💻 GitHub: https://lnkd.in/dMu_hmXt
+
+hashtag#AWS hashtag#Terraform hashtag#CDKTF hashtag#Python hashtag#DevOps hashtag#Cloud hashtag#CloudComputing hashtag#InfrastructureAsCode hashtag#IaC hashtag#AWSCloud hashtag#DevOpsTools hashtag#CloudInfrastructure
